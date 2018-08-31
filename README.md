@@ -2,6 +2,7 @@
 
 前端资源收集
 
+* [Vanilla js](vanilla-js.md)
 * [Functional Programming 函数式编程](functional-programming.md)
 * [Node.js](nodejs.md)
 * [Angular](angular.md)
