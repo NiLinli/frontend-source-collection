@@ -1,4 +1,4 @@
-# DOM
+# DOM or $
 
 ## Gesture 手势操作
 
