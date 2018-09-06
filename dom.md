@@ -6,9 +6,14 @@
 - [AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 滑动, 下拉刷新等
 - [pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) pull to refresh 下拉刷新操作
 
+## scroll 滚动
+
+- [scrollreveal](https://github.com/scrollreveal/scrollreveal)
+
 ## 表单验证 form validation
 
 - [jquery-validation](https://github.com/jquery-validation/jquery-validation)
+- [select2](https://github.com/select2/select2) 模拟 select 功能
 
 ## 文件上传 file upload
 
