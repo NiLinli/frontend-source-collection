@@ -1,5 +1,17 @@
 # DOM or $
 
+## Ajax
+
+- [fetch ployfill](https://github.com/github/fetch)
+
+## BOM
+
+- [history.js](https://github.com/browserstate/history.js)   HTML5 History/State polyfill
+
+## Event
+
+- [delegated-events](https://github.com/dgraham/delegated-events)
+
 ## Gesture 手势操作
 
 - [hammer.js](https://github.com/hammerjs/hammer.js) 各种手势操作
