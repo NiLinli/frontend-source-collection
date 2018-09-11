@@ -20,7 +20,10 @@
 
 ## scroll 滚动
 
+- [skrollr](https://github.com/Prinzhorn/skrollr)
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal)
+- [onepage-scroll](https://github.com/peachananr/onepage-scroll)
+- [infinite-scroll](https://github.com/metafizzy/infinite-scroll)
 
 ## 表单验证 form validation
 
