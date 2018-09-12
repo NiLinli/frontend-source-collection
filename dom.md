@@ -1,4 +1,4 @@
-# DOM or $
+# DOM or BOM or $
 
 ## Ajax
 
@@ -58,6 +58,10 @@
 ## 日期选择器 datepicker
 
 - [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) bootstrap 风格的日期选择器
+
+## canvas
+
+- [ExplorerCanvas](https://github.com/arv/ExplorerCanvas)
 
 
 
