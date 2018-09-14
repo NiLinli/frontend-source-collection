@@ -24,6 +24,8 @@
 - [scrollreveal](https://github.com/scrollreveal/scrollreveal)
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll)
 - [infinite-scroll](https://github.com/metafizzy/infinite-scroll)
+- [contents](https://github.com/gajus/contents)
+- [jquery.tocify](https://github.com/gfranko/jquery.tocify.js) $ table of contents
 
 ## 表单验证 form validation
 
