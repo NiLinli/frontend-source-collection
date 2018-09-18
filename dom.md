@@ -65,6 +65,10 @@
 
 - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas)
 
+## 其他
+
+- [pace](https://github.com/HubSpot/pace) 网页加载进度显示
+
 
 
 
