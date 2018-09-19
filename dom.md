@@ -68,6 +68,7 @@
 ## 其他
 
 - [pace](https://github.com/HubSpot/pace) 网页加载进度显示
+- [highlight.js](https://github.com/highlightjs/highlight.js) 代码高亮
 
 
 
