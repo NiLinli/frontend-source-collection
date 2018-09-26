@@ -11,3 +11,5 @@
 - [generator-webapp](https://github.com/yeoman/generator-webapp) 使用 gulp 构建的工程项目
 
 ## lib
+
+- [node-glob](https://github.com/isaacs/node-glob) oh my glob
