@@ -1,5 +1,16 @@
 # DOM or BOM or $
 
+越过设计模式 , 越过了数据结构, 越过了 rxjs ... 就是越不过的 超级可怕的 DOM
+
+## 史诗级的内裤(类库)
+
+- [jquery](https://github.com/jquery/jquery)
+- [Modernizr](https://github.com/Modernizr/Modernizr)
+
+## Mobile fix
+
+- [fastclick](https://github.com/ftlabs/fastclick) ios 300ms 延迟
+
 ## Ajax
 
 - [fetch ployfill](https://github.com/github/fetch)
@@ -7,6 +18,8 @@
 ## BOM
 
 - [history.js](https://github.com/browserstate/history.js)   HTML5 History/State polyfill
+- [date-fns](https://github.com/date-fns/date-fns) 
+- [moment](https://github.com/moment/moment)
 
 ## Event
 
