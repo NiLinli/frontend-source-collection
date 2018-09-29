@@ -2,6 +2,10 @@
 
 Angular v2 及以上
 
+- Angular 官网 [中文](https://angular.cn/) [英文](https://angular.io)
+- [angular-cli](https://github.com/angular/angular-cli/wiki) Angular 打包工具
+- [augury](https://augury.angular.io/) Angular chrome 调试工具
+
 ## blog
 
 - [thoughtram](https://blog.thoughtram.io/categories/angular-2/)
@@ -16,5 +20,4 @@ Angular v2 及以上
 
 ## 其他
 
-- [angular-cli](https://cli.angular.io/) Angular 打包工具
-- [augury](https://augury.angular.io/) Angular chrome 调试工具
+
