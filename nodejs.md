@@ -7,8 +7,8 @@
 
 ## 构建工具
 
-- [gulp 资料收集](https://github.com/Platform-CUF/use-gulp)
 - [generator-webapp](https://github.com/yeoman/generator-webapp) 使用 gulp 构建的工程项目
+- [babel](https://github.com/babel/babel)
 
 ## lib
 
