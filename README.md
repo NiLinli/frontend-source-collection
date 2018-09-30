@@ -13,3 +13,8 @@
 * [其他前端资源收集项目](other-fsc.md)
 * [工具](tool.md)
 
+其他
+
+* [Compute Science 不完全相关](./cs.md)
+
+
