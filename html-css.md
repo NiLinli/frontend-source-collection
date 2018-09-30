@@ -6,10 +6,13 @@
 - [quirksmode](https://quirksmode.org/)
 - [Sass](http://sass-lang.com/)
 - [Stylus](http://stylus-lang.com/)
+- [html5doctor](http://html5doctor.com/)
+- [缓动函数速查表](https://easings.net/zh-cn)
+- [Safari Supported CSS Properties](https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html#//apple_ref/doc/uid/TP30001266-SW26)
 
 ## CSS Framework
 
-- [getbootstrap](https://getbootstrap.com/docs/3.3/)
+- [bootstrap](https://getbootstrap.com/docs/3.3/) [bootstrap 中文](https://v3.bootcss.com/)
 - [material-design-lite](https://github.com/google/material-design-lite) google 官方出品的 material
 - [materialize](https://github.com/Dogfalo/materialize)
 - [Spectre](https://github.com/picturepan2/spectre) 
@@ -22,6 +25,10 @@
 - [opacityInCssBackgroundImages](http://scripting.com/2014/03/10/opacityInCssBackgroundImages.html)
 - [Responsive Web Design](https://alistapart.com/article/responsive-web-design)
 - [A More Modern Scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
+- [Quantity Queries for CSS](https://alistapart.com/article/quantity-queries-for-css)
+- [This Is Responsive](https://bradfrost.github.io/this-is-responsive/)
+- [simurai](http://simurai.com/) 设计师
+- [Experimenting with responsive design in Iterations](https://signalvnoise.com/posts/2661-experimenting-with-responsive-design-in-iterations)
 
 ## Library
 
@@ -38,6 +45,9 @@
 
 ## 字体
 
-- []()
+- [iconfont](http://www.iconfont.cn/plus)
+- [easyicon](https://www.easyicon.net/)
+- [fontawesome](http://www.fontawesome.com.cn/)
+- [Google 字体中文版](http://www.googlefonts.net/)
 
 
