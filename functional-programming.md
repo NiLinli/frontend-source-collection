@@ -12,3 +12,8 @@
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 
 ## rxjs
+
+## other
+
+- [underscorejs](https://underscorejs.org/)
+- [lodash](https://lodash.com/)
