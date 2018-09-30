@@ -8,5 +8,14 @@
 ## 
 
 - [core-js](https://github.com/zloirock/core-js) polyfill
+- [compat-table](http://kangax.github.io/compat-table/es6/) 测试浏览器对 ESNext 的兼容性
+
+## 
+
+- [What is the Execution Context & Stack in JavaScript?](http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/)
+
+## oop
+
+- [flaw-constructor-does-real-work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
 
 
