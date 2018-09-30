@@ -9,6 +9,7 @@
 
 - [generator-webapp](https://github.com/yeoman/generator-webapp) 使用 gulp 构建的工程项目
 - [babel](https://github.com/babel/babel)
+- [webpack](https://webpack.js.org/concepts/) [webpack 中文](https://doc.webpack-china.org/concepts/)
 
 ## lib
 
