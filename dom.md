@@ -13,10 +13,12 @@
 
 ## Ajax
 
-- [fetch ployfill](https://github.com/github/fetch)
+- [fetch ployfill](https://github.com/github/fetch) 
 
 ## BOM
 
+- [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
+- [](https://browserl.ist/) A page to display compatible browsers from a browserslist string.
 - [history.js](https://github.com/browserstate/history.js)   HTML5 History/State polyfill
 - [date-fns](https://github.com/date-fns/date-fns) 
 - [moment](https://github.com/moment/moment)
@@ -78,6 +80,8 @@
 ## canvas
 
 - [ExplorerCanvas](https://github.com/arv/ExplorerCanvas)
+- [echarts](https://github.com/apache/incubator-echarts)
+- [three.js](https://github.com/mrdoob/three.js/)
 
 ## 其他
 
