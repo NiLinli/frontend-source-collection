@@ -76,6 +76,7 @@
 ## 日期选择器 datepicker
 
 - [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) bootstrap 风格的日期选择器
+- [daterangepicker](https://github.com/dangrossman/daterangepicker)
 
 ## canvas
 
