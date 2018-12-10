@@ -15,3 +15,6 @@
 - [ISO_639](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) 语言缩写标准
 - [tz database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) 时区缩写
 
+## 加密算法
+
+- [sjcl](https://github.com/bitwiseshiftleft/sjcl)
