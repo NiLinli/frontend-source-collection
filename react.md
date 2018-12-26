@@ -26,6 +26,7 @@
 - [react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) tab 页切换
 - [react-native-webview](https://github.com/react-native-community/react-native-webview) Webview
 - [react-native-progress](https://github.com/oblador/react-native-progress) 进度条
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) RN 使用字体图标
 
 ## 服务端渲染
 
