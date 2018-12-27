@@ -1,6 +1,6 @@
 # React
 
-- React [英文](https://reactjs.org/) [React中文](https://react.docschina.org/)
+- React [英文](https://reactjs.org/) [中文](https://react.docschina.org/)
 - React Native [英文](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 
 - [preact](https://github.com/developit/preact)
@@ -10,14 +10,7 @@
 
 - [material-ui](https://github.com/mui-org/material-ui)
 - []()
-- []()
-- []()
-- []()
 - [belle](https://github.com/nikgraf/belle/)
-- []()
-- []()
-- []()
-- []()
 - [draft-js](https://github.com/facebook/draft-js)  富文本编辑器 FOR REACT
 
 ## React Native
@@ -36,4 +29,5 @@
 
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)
 - [React 相关的优秀资源](https://github.com/ywwhack/react-journey)
