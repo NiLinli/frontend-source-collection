@@ -2,9 +2,13 @@
 
 - React [英文](https://reactjs.org/) [中文](https://react.docschina.org/)
 - React Native [英文](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
-
 - [preact](https://github.com/developit/preact)
 - [create-react-app](https://github.com/facebook/create-react-app) 创建 react 工程 cli
+
+调试
+
+- [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
 
 ## React
 
