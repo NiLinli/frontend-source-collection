@@ -25,6 +25,7 @@
 - [react-native-progress](https://github.com/oblador/react-native-progress) 进度条
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) RN 使用字体图标
 - [react-native-languages](https://github.com/react-native-community/react-native-languages) 读取系统语言(Android + IOS), 监听系统语言变化(Android), App 内部国际化需要配合 [i18n-js](https://github.com/fnando/i18n-js) 使用
+- [react-native-svg](https://github.com/react-native-community/react-native-svg) 支持 SVG 元素, 不支持图片导入
 
 ## 服务端渲染
 
