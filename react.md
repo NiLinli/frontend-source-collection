@@ -38,4 +38,6 @@
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
 - [react-native-awesome](https://github.com/crazycodeboy/react-native-awesome)
+- [awesome-redux](https://github.com/xgrommx/awesome-redux)
+- [react-redux-links](https://github.com/markerikson/react-redux-links)
 - [React 相关的优秀资源](https://github.com/ywwhack/react-journey)
