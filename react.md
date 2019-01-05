@@ -28,6 +28,7 @@
 - [react-native-svg](https://github.com/react-native-community/react-native-svg) 支持 SVG 元素, 不支持图片导入
 - [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) Android IOS trick 解决 白屏问题
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) 渐变效果
+- [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob) 处理 fetch 下来的 file
 
 ## 服务端渲染
 
