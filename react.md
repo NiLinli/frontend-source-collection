@@ -29,6 +29,7 @@
 - [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) Android IOS trick 解决 白屏问题
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) 渐变效果
 - [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob) 处理 fetch 下来的 file
+- [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view) 自动滚动表单, 防止键盘遮挡
 
 ## 服务端渲染
 
