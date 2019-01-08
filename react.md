@@ -12,6 +12,7 @@
 
 - [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
+- [sentry](https://sentry.io/welcome/) 错误报告
 
 ## React
 
