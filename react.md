@@ -1,16 +1,23 @@
 # React
 
-- React [英文](https://reactjs.org/) [中文](https://react.docschina.org/)
-- React Native [英文](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
-- [preact](https://github.com/developit/preact)
+- React [English](https://reactjs.org/) [中文](https://react.docschina.org/)
+- React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
+- Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
+
+## 构建
+
 - [create-react-app](https://github.com/facebook/create-react-app) 创建 react 工程 cli
 
-调试
+## 调试
 
 - [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
 - [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
 
 ## React
+
+- [React 设计思想](https://github.com/react-guide/react-basic)
+
+### 组件
 
 - [material-ui](https://github.com/mui-org/material-ui)
 - [belle](https://github.com/nikgraf/belle/)
@@ -34,9 +41,17 @@
 - [react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) 处理安卓虚拟按键导致的获取屏幕尺寸不准
 - [react-native-modal](https://github.com/react-native-community/react-native-modal) Modal 扩展
 
+## Redux
+
+- [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
+
 ## 服务端渲染
 
 - [Next.js](https://github.com/zeit/next.js)
+
+## 相关
+
+- [preact](https://github.com/developit/preact)
 
 ## 相关资源
 
