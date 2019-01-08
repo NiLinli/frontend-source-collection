@@ -45,6 +45,8 @@
 ## Redux
 
 - [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
+- [react-redux](https://github.com/reduxjs/react-redux)
+- [redux-thunk](https://github.com/reduxjs/redux-thunk)
 
 ## 服务端渲染
 
