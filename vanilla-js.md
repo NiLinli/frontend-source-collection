@@ -18,4 +18,10 @@
 
 - [flaw-constructor-does-real-work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
 
+## 
+
+- [normalizr](https://github.com/paularmstrong/normalizr) 以一定的规则去规范 JSON 数据
+- [joi](https://github.com/hapijs/joi) Object schema validation
+- [yup](https://github.com/jquense/yup) Object schema validator and object parser. 
+
 
