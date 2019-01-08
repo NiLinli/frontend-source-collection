@@ -30,6 +30,9 @@
 - [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) 渐变效果
 - [rn-fetch-blob](https://github.com/joltup/rn-fetch-blob) 处理 fetch 下来的 file
 - [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view) 自动滚动表单, 防止键盘遮挡
+- [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay) 网络请求 loading
+- [react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) 处理安卓虚拟按键导致的获取屏幕尺寸不准
+- [react-native-modal](https://github.com/react-native-community/react-native-modal) Modal 扩展
 
 ## 服务端渲染
 
