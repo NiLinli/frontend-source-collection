@@ -7,7 +7,7 @@
 * [Node.js](nodejs.md)
 * [Angular](angular.md)
 * [React](react.md)
-* [DOM 操作案例](dom.md)
+* [可怕的 DOM](dom.md)
 * [HTML CSS](html-css.md)
 * [一些前端开源的 Team](open-source-team.md)
 * [其他前端资源收集项目](other-fsc.md)
