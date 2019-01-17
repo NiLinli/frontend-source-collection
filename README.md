@@ -21,6 +21,10 @@
 
 * [Android](android.md)
 
+## UI
+
+- [iPhone 分辨率发展史](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
 ## 其他
 
 * [Compute Science 不完全相关](./cs.md)
