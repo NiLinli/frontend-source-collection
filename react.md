@@ -51,6 +51,8 @@
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
 
+- [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store)
+
 ## 服务端渲染
 
 - [Next.js](https://github.com/zeit/next.js)
