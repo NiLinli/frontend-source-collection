@@ -46,8 +46,10 @@
 ## Redux
 
 - [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
-- [react-redux](https://github.com/reduxjs/react-redux)
-- [redux-thunk](https://github.com/reduxjs/redux-thunk)
+- [react-redux](https://github.com/reduxjs/react-redux) 链接 React 和 Redux
+- [redux-thunk](https://github.com/reduxjs/redux-thunk) 支持 dispatch 处理 Function
+- [redux-actions](https://github.com/redux-utilities/redux-actions)
+- [](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
 
 ## 服务端渲染
 
