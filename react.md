@@ -69,3 +69,5 @@
 - [awesome-redux](https://github.com/xgrommx/awesome-redux)
 - [react-redux-links](https://github.com/markerikson/react-redux-links)
 - [React 相关的优秀资源](https://github.com/ywwhack/react-journey)
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide)
+- [Awesome-React-Native-Education](https://github.com/hsavit1/Awesome-React-Native-Education)
