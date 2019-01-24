@@ -3,6 +3,7 @@
 - React [English](https://reactjs.org/) [中文](https://react.docschina.org/)
 - React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
+- Flux [English](https://github.com/facebook/flux)
 
 ## 构建
 
