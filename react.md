@@ -4,7 +4,7 @@
 - React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
 - Flux [English](https://github.com/facebook/flux)
-
+- Immutable [English](https://github.com/facebook/immutable-js)
 ## 构建
 
 - [create-react-app](https://github.com/facebook/create-react-app) 创建 react 工程 cli
@@ -52,7 +52,7 @@
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
 
-- [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store)
+- [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store) 怎么重置 redux store
 
 ## 服务端渲染
 
