@@ -30,6 +30,7 @@
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) RN 社区推崇的 Navigation
 - [react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) tab 页切换
+- [react-native-camera](https://github.com/react-native-community/react-native-camera) 调用摄像头 扫码等
 - [react-native-webview](https://github.com/react-native-community/react-native-webview) Webview
 - [react-native-progress](https://github.com/oblador/react-native-progress) 进度条
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) RN 使用字体图标
