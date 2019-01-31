@@ -18,6 +18,10 @@
 
 - [flaw-constructor-does-real-work](http://misko.hevery.com/code-reviewers-guide/flaw-constructor-does-real-work/)
 
+## 博客
+
+- [Douglas Crockford's blog](http://crockford.com/)
+
 ## 
 
 - [normalizr](https://github.com/paularmstrong/normalizr) 以一定的规则去规范 JSON 数据
