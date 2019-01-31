@@ -2,8 +2,8 @@
 
 ## FP 基础
 
-- 术语/概念 [English](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md) [中文](https://github.com/shfshanyue/fp-jargon-zh/blob/master/Readme.md)
-- [Mostly adequate guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/README.md) [中文](https://github.com/llh911001/mostly-adequate-guide-chinese)
+- Functional Programming Jargon [English](https://github.com/hemanth/functional-programming-jargon/blob/master/readme.md) [中文](https://github.com/shfshanyue/fp-jargon-zh/blob/master/Readme.md)
+- Mostly adequate guide to FP  [English](https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/README.md) [中文](https://github.com/llh911001/mostly-adequate-guide-chinese)
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 
 ## rxjs
