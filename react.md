@@ -44,6 +44,7 @@
 - [react-native-extra-dimensions-android](https://github.com/Sunhat/react-native-extra-dimensions-android) 处理安卓虚拟按键导致的获取屏幕尺寸不准
 - [react-native-modal](https://github.com/react-native-community/react-native-modal) Modal 扩展
 - [react-native-check-box](https://github.com/crazycodeboy/react-native-check-box) checkbox
+- [react-native-camera](https://github.com/react-native-community/react-native-camera)
 
 ## Redux
 
