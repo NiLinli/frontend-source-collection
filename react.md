@@ -46,6 +46,7 @@
 - [react-native-check-box](https://github.com/crazycodeboy/react-native-check-box) checkbox
 - [react-native-camera](https://github.com/react-native-community/react-native-camera)
 - [react-native-root-toast](https://github.com/magicismight/react-native-root-toast) JS 方案的 Toast
+- [react-native-root-siblings](https://github.com/magicismight/react-native-root-siblings) 根节点添加兄弟组件
 
 ## Redux
 
