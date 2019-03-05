@@ -47,6 +47,8 @@
 - [react-native-camera](https://github.com/react-native-community/react-native-camera)
 - [react-native-root-toast](https://github.com/magicismight/react-native-root-toast) JS 方案的 Toast
 - [react-native-root-siblings](https://github.com/magicismight/react-native-root-siblings) 根节点添加兄弟组件
+- [lottie-react-native](https://github.com/react-native-community/lottie-react-native) 动画
+- [react-native-animatable](https://github.com/oblador/react-native-animatable) Transcation 缓动
 
 ## Redux
 
