@@ -5,9 +5,10 @@
 - Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
 - Flux [English](https://github.com/facebook/flux)
 - Immutable [English](https://github.com/facebook/immutable-js)
+
 ## 构建
 
-- [create-react-app](https://github.com/facebook/create-react-app) 创建 react 工程 cli
+- [create-react-app](https://github.com/facebook/create-react-app) [Doc](https://facebook.github.io/create-react-app/)
 
 ## 调试
 
