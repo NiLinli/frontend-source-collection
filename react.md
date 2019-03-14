@@ -3,6 +3,7 @@
 - React [English](https://reactjs.org/) [中文](https://react.docschina.org/)
 - React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
+- React Redux [English](https://react-redux.js.org/) [github](https://github.com/reduxjs/react-redux)
 - Flux [English](https://github.com/facebook/flux)
 - Immutable [English](https://github.com/facebook/immutable-js)
 
@@ -54,7 +55,6 @@
 ## Redux
 
 - [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
-- [react-redux](https://github.com/reduxjs/react-redux) 链接 React 和 Redux
 - [redux-thunk](https://github.com/reduxjs/redux-thunk) 支持 dispatch 处理 Function
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
