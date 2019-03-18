@@ -13,17 +13,14 @@
 * [其他前端资源收集项目](other-fsc.md)
 * [工具](tool.md)
 
-## IOS
+## IOS / Android
 
 * [IOS](ios.md)
-
-## Android
-
 * [Android](android.md)
 
 ## UI
 
-- [UI](ui.md)
+* [UI](ui.md)
 
 ## 其他
 
