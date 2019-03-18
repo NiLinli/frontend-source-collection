@@ -54,6 +54,9 @@
 - [react-native-share](https://github.com/react-native-community/react-native-share) 社交分享
 - [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker) Image picker
 - [react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store) AsyncStorage 的 wrapper
+- [react-native-svg-charts](https://github.com/JesperLekland/react-native-svg-charts) 不再维护
+- [react-native-chart](https://github.com/tomauty/react-native-chart) 不再维护
+- [victory-native](https://github.com/FormidableLabs/victory-native) react-native-chart 替代者
 
 
 ## Redux
@@ -62,7 +65,6 @@
 - [redux-thunk](https://github.com/reduxjs/redux-thunk) 支持 dispatch 处理 Function
 - [redux-actions](https://github.com/redux-utilities/redux-actions)
 - [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
-
 - [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store) 怎么重置 redux store
 
 ## 服务端渲染
