@@ -51,6 +51,10 @@
 - [react-native-root-siblings](https://github.com/magicismight/react-native-root-siblings) 根节点添加兄弟组件
 - [lottie-react-native](https://github.com/react-native-community/lottie-react-native) 动画
 - [react-native-animatable](https://github.com/oblador/react-native-animatable) Transcation 缓动
+- [react-native-share](https://github.com/react-native-community/react-native-share) 社交分享
+- [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker) Image picker
+- [react-native-simple-store](https://github.com/jasonmerino/react-native-simple-store) AsyncStorage 的 wrapper
+
 
 ## Redux
 
