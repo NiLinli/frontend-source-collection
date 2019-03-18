@@ -1,6 +1,4 @@
-# DOM or BOM or $
-
-越过设计模式 , 越过了数据结构, 越过了 rxjs ... 就是越不过的 超级可怕的 DOM
+# DOM or BOM 
 
 ## 史诗级的内裤(类库)
 
@@ -19,7 +17,7 @@
 ## BOM
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
-- [](https://browserl.ist/) A page to display compatible browsers from a browserslist string.
+- [browserslist](https://browserl.ist/) A page to display compatible browsers from a browserslist string.
 - [history.js](https://github.com/browserstate/history.js)   HTML5 History/State polyfill
 - [date-fns](https://github.com/date-fns/date-fns) 
 - [moment](https://github.com/moment/moment)
