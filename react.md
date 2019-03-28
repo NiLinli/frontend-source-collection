@@ -1,25 +1,23 @@
 # React
 
 - React [English](https://reactjs.org/) [中文](https://react.docschina.org/)
-- React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - Redux [中文](http://cn.redux.js.org/) [English](https://redux.js.org/)
 - React Redux [English](https://react-redux.js.org/) [github](https://github.com/reduxjs/react-redux)
+- [React 设计思想](https://github.com/react-guide/react-basic)
 - Flux [English](https://github.com/facebook/flux)
 - Immutable [English](https://github.com/facebook/immutable-js)
 
-## 构建
+## React Web
 
 - [create-react-app](https://github.com/facebook/create-react-app) [Doc](https://facebook.github.io/create-react-app/)
 
-## 调试
+## Redux
 
-- [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
-- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
-- [sentry](https://sentry.io/welcome/) 错误报告
-
-## React
-
-- [React 设计思想](https://github.com/react-guide/react-basic)
+- [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
+- [redux-thunk](https://github.com/reduxjs/redux-thunk) 支持 dispatch 处理 Function
+- [redux-actions](https://github.com/redux-utilities/redux-actions)
+- [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
+- [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store) 怎么重置 redux store
 
 ### 组件
 
@@ -29,6 +27,9 @@
 - [formik](https://github.com/jaredpalmer/formik) React or React Native Forms validation
 
 ## React Native
+
+- React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
+- [Metro](https://github.com/facebook/metro) React Native Javascript 打包器
 
 - [react-navigation](https://github.com/react-navigation/react-navigation) Navigation, 路由 + 控制 Component 生命周期
 - [react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) tab 页切换
@@ -59,14 +60,12 @@
 - [victory-native](https://github.com/FormidableLabs/victory-native) react-native-chart 替代者
 - [aspl-react-native-button](https://github.com/APSL/react-native-button)
 
+## 调试
 
-## Redux
+- [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
+- [sentry](https://sentry.io/welcome/) 错误报告
 
-- [Redux Tutorial 中文翻译](https://github.com/react-guide/redux-tutorial-cn)
-- [redux-thunk](https://github.com/reduxjs/redux-thunk) 支持 dispatch 处理 Function
-- [redux-actions](https://github.com/redux-utilities/redux-actions)
-- [redux-persist](https://github.com/rt2zz/redux-persist) 存储和还原 redux store
-- [how-to-reset-the-state-of-a-redux-store](https://stackoverflow.com/questions/35622588/how-to-reset-the-state-of-a-redux-store) 怎么重置 redux store
 
 ## 服务端渲染
 
