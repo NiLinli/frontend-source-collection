@@ -60,6 +60,13 @@
 - [victory-native](https://github.com/FormidableLabs/victory-native) react-native-chart 替代者
 - [aspl-react-native-button](https://github.com/APSL/react-native-button)
 
+## RN 中使用 Node core
+
+各种尝试
+
+- [ReactNativify](https://github.com/philikon/ReactNativify)
+- [rn-nodeify](https://github.com/tradle/rn-nodeify)
+
 ## 调试
 
 - [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
