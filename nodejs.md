@@ -15,3 +15,7 @@
 ## lib
 
 - [node-glob](https://github.com/isaacs/node-glob) oh my glob
+
+## 资源
+
+-[awesome-npm](https://github.com/sindresorhus/awesome-npm)
