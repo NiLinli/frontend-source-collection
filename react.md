@@ -59,6 +59,7 @@
 - [react-native-chart](https://github.com/tomauty/react-native-chart) 不再维护
 - [victory-native](https://github.com/FormidableLabs/victory-native) react-native-chart 替代者
 - [aspl-react-native-button](https://github.com/APSL/react-native-button)
+- [react-native-confirmation-code-input](https://github.com/ttdung11t2/react-native-confirmation-code-input)
 
 ## RN 中使用 Node core
 
