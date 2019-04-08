@@ -30,7 +30,6 @@
 
 - React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - [Metro](https://github.com/facebook/metro) React Native Javascript 打包器
-
 - [react-navigation](https://github.com/react-navigation/react-navigation) Navigation, 路由 + 控制 Component 生命周期
 - [react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) tab 页切换
 - [react-native-camera](https://github.com/react-native-community/react-native-camera) 调用摄像头 扫码等
@@ -70,10 +69,9 @@
 
 ## 调试
 
-- [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立APP(调试 RN) 
-- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 独立APP(调试 RN)
+- [react-devtools](https://github.com/facebook/react-devtools) 浏览器扩展(调试 HTML) , 独立程序 (调试 RN 等) 
+- [react-native-debugger](https://github.com/jhen0409/react-native-debugger) 调试 RN , 存在电脑 ram 占用巨大等问题
 - [sentry](https://sentry.io/welcome/) 错误报告
-
 
 ## 服务端渲染
 
