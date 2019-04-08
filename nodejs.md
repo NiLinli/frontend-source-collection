@@ -5,6 +5,7 @@
 - [Node 入门](https://www.nodebeginner.org/index-zh-cn.html)
 - [stream-handbook](https://github.com/substack/stream-handbook) -- [中文版](https://github.com/jabez128/stream-handbook)
 - [peer-dependencies](https://blog.domenic.me/peer-dependencies/)
+- [npm-global-without-sudo](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 
 ## 构建工具
 
@@ -18,4 +19,4 @@
 
 ## 资源
 
--[awesome-npm](https://github.com/sindresorhus/awesome-npm)
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm)
