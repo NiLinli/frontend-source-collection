@@ -19,6 +19,7 @@
 - 语言缩写 [ISO_639](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 - 时区缩写 [tz database](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) 
 
-## 加密算法
+## 通用加密算法
 
 - [sjcl](https://github.com/bitwiseshiftleft/sjcl)
+- [crypto-js](https://github.com/brix/crypto-js)
