@@ -30,7 +30,14 @@
 
 - React Native [English](https://facebook.github.io/react-native) [中文](https://reactnative.cn/)
 - [Metro](https://github.com/facebook/metro) React Native Javascript 打包器
-- [react-navigation](https://github.com/react-navigation/react-navigation) Navigation, 路由 + 控制 Component 生命周期
+- [React Navigation](https://github.com/react-navigation/react-navigation) navigation + router
+
+### 已知 quirk
+
+- [Fix refreshing state](https://github.com/facebook/react-native/commit/93b39b73262f20f0d1ec96e0e33d7b4aaff6879b)
+
+### Component
+
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) UI 组件库
 - [react-native-elements](https://github.com/react-native-training/react-native-elements) UI 组件库
 - [react-native-scrollable-tab-view](https://github.com/ptomasroos/react-native-scrollable-tab-view) tab 页切换
@@ -61,8 +68,9 @@
 - [victory-native](https://github.com/FormidableLabs/victory-native) react-native-chart 替代者
 - [aspl-react-native-button](https://github.com/APSL/react-native-button)
 - [react-native-confirmation-code-input](https://github.com/ttdung11t2/react-native-confirmation-code-input)
+- [react-native-modal-dropdown](https://github.com/sohobloo/react-native-modal-dropdown)
 
-## RN 中使用 Node core
+### RN 中使用 Node core
 
 各种尝试
 
