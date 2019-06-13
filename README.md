@@ -7,6 +7,7 @@
 * [Node.js](nodejs.md)
 * [Angular](angular.md)
 * [React](react.md)
+* [Vue](vue.md)
 * [可怕的 DOM](dom.md)
 * [HTML CSS](html-css.md)
 * [一些前端开源的 Team](open-source-team.md)
