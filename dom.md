@@ -18,9 +18,12 @@
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [browserslist](https://browserl.ist/) A page to display compatible browsers from a browserslist string.
-- [history.js](https://github.com/browserstate/history.js)   HTML5 History/State polyfill
-- [date-fns](https://github.com/date-fns/date-fns) 
-- [moment](https://github.com/moment/moment)
+
+## Router
+
+- [history.js](https://github.com/browserstate/history.js) HTML5 History/State polyfill
+- [page.js](https://github.com/visionmedia/page.js) Micro client-side router inspired by the Express router
+- [director](https://github.com/flatiron/director) a tiny and isomorphic URL router for JavaScript
 
 ## Event
 
