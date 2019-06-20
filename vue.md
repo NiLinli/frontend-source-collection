@@ -10,6 +10,7 @@ Vue 旨在提供开箱即用全家桶, 除官方外尽量不收集过多的资�
 - [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
 - [vue-i18n](https://github.com/kazupon/vue-i18n) i18n 国际化
 - [nuxt.js](https://github.com/nuxt/nuxt.js) 服务端 ssr
+- [vee-validate](https://github.com/baianat/vee-validate) 表单验证
 
 ## 组件
 
