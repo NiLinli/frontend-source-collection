@@ -6,6 +6,13 @@ Angular v2 及以上
 - [angular-cli](https://github.com/angular/angular-cli/wiki) Angular 打包工具
 - [augury](https://augury.angular.io/) Angular chrome 调试工具
 
+## Typescript
+
+- Typescript 官网 [中文](https://www.tslang.cn/)
+- [TypeScript Deep Dive](https://legacy.gitbook.com/book/basarat/typescript/details)
+- [tslint](https://palantir.github.io/tslint/)
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+
 ## blog
 
 - [Angular In Depth](https://blog.angularindepth.com/tagged/angular) 推荐
@@ -22,6 +29,11 @@ Angular v2 及以上
 - [ionic](https://ionicframework.com/docs/)
 - [ngx-scanner](https://github.com/zxing-js/ngx-scanner) 调用 H5 进行扫描
 
+## Pipe
+
+- [angular-pipes](https://github.com/fknop/angular-pipes)
+- [ngx-pipes](https://github.com/danrevah/ngx-pipes)
+
 ## Ionic
 
 - [cordova-plugin-background-mode](https://github.com/katzer/cordova-plugin-background-mode) 保持 app 在后台运行
@@ -30,13 +42,12 @@ Angular v2 及以上
 
 - [ng-alain](https://ng-alain.com/) 基于 Ant Design 的后台管理系统
 
-## 其他
+## 资料
 
-### Typescript
+- [awesome-angular](https://github.com/PatrickJS/awesome-angular)
 
-- Typescript 官网 [中文](https://www.tslang.cn/)
-- [TypeScript Deep Dive](https://legacy.gitbook.com/book/basarat/typescript/details)
-- [tslint](https://palantir.github.io/tslint/)
+
+
 
 
 
