@@ -18,6 +18,7 @@ Vue 旨在提供开箱即用全家桶, 除官方外尽量不收集过多的资�
 - [mint-ui](https://github.com/ElemeFE/mint-ui) 饿了么手机端
 - [vant](https://github.com/youzan/vant)  有赞移动段组件库 亮点: 手机端 + 小程序 + 业务组件
 - [text-mask](https://github.com/text-mask/text-mask)
+- [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)
 
 
 ## 项目
