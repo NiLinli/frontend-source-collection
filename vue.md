@@ -7,7 +7,9 @@ Vue 旨在提供开箱即用全家桶, 除官方外尽量不收集过多的资�
 - [vue-router](https://router.vuejs.org/zh/)
 - [vue-navigation](https://github.com/zack24q/vue-navigation)
 - [vuex](https://vuex.vuejs.org/zh/)  类似与 redux + react-redux 
-- [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
+- [vue-ls](https://github.com/RobinCK/vue-ls)
+- [vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) Vuex 持久化
+- [vuex-persist](https://github.com/championswimmer/vuex-persist) Vuex 持久化
 - [vue-i18n](https://github.com/kazupon/vue-i18n) i18n 国际化
 - [nuxt.js](https://github.com/nuxt/nuxt.js) 服务端 ssr
 - [vee-validate](https://github.com/baianat/vee-validate) 表单验证
