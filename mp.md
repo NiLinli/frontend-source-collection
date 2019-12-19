@@ -2,6 +2,7 @@
 
 vue
 
+- [wepy](https://wepyjs.github.io/wepy-docs/)
 - [mpvue](https://github.com/Meituan-Dianping/mpvue)  [awesome-mpvue](https://github.com/mpvue/awesome-mpvue)
 - [uni-app](https://github.com/dcloudio/uni-app)
 - [chameleon](https://github.com/didi/chameleon)
