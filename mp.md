@@ -12,7 +12,7 @@ react
 
 组件库
 
-- [vant-weapp](https://github.com/youzan/vant-weapp) 组件化
+- [vant-weapp](https://github.com/youzan/vant-weapp) 有赞
 
 ## 快应用quickapp
 
