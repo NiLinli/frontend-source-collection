@@ -10,6 +10,10 @@ react
 - [taro-ui](https://github.com/NervJS/taro-ui)
 - [remax](https://github.com/remaxjs/remax)
 
+组件库
+
+- [vant-weapp](https://github.com/youzan/vant-weapp) 组件化
+
 ## 快应用quickapp
 
 - [官网](https://www.quickapp.cn/) 
