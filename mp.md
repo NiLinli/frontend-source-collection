@@ -2,8 +2,13 @@
 
 vue
 
-- [wepy](https://wepyjs.github.io/wepy-docs/)/ [awesome-wepy](https://github.com/aben1188/awesome-wepy) 类 vue 写法, 方微信官方
-- [mpvue](https://github.com/Meituan-Dianping/mpvue)/[uni-app](https://github.com/dcloudio/uni-app)/[chameleon](https://github.com/didi/chameleon)  [awesome-mpvue](https://github.com/mpvue/awesome-mpvue)  vue 开发流程
+- [wepy](https://wepyjs.github.io/wepy-docs/)/  类 vue 写法, 方微信官方
+- [mpvue](https://github.com/Meituan-Dianping/mpvue)/[uni-app](https://github.com/dcloudio/uni-app)/[chameleon](https://github.com/didi/chameleon)    vue 开发流程
+
+- [awesome-wepy](https://github.com/aben1188/awesome-wepy)
+- [awesome-mpvue](https://github.com/mpvue/awesome-mpvue)
+- [awesome-uni-app](https://github.com/aben1188/awesome-uni-app)
+- [awesome-cml](https://github.com/chameleon-team/awesome-cml)
 
 react
 
