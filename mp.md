@@ -23,6 +23,7 @@
 
 ### 资源
 
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
 - [awesome-wepy](https://github.com/aben1188/awesome-wepy)
 - [awesome-mpvue](https://github.com/mpvue/awesome-mpvue)
 - [awesome-uni-app](https://github.com/aben1188/awesome-uni-app)
