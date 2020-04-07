@@ -18,6 +18,8 @@
 
 - [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 - [browserslist](https://browserl.ist/) A page to display compatible browsers from a browserslist string.
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+- []()
 
 ## Router
 
