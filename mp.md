@@ -2,16 +2,17 @@
 
 ## 微信 miniapp
 
-### vue
-
-- [wepy](https://wepyjs.github.io/wepy-docs/) 类 vue 写法, 方微信官方
-- [mpvue](https://github.com/Meituan-Dianping/mpvue)/[uni-app](https://github.com/dcloudio/uni-app)
-- [chameleon](https://github.com/didi/chameleon) vue 开发流程
-
 ### react
 
-- [taro-ui](https://github.com/NervJS/taro-ui)
+- [taro](https://github.com/nervjs/taro)
 - [remax](https://github.com/remaxjs/remax)
+
+### vue
+
+- ~~[wepy](https://wepyjs.github.io/wepy-docs/) 类 vue 写法, 方微信官方~~
+- ~~[mpvue](https://github.com/Meituan-Dianping/mpvue)/[uni-app](https://github.com/dcloudio/uni-app)~~
+- [chameleon](https://github.com/didi/chameleon) vue 开发流程
+
 
 ### 组件库
 
